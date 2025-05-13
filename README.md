@@ -27,16 +27,7 @@ A simple and user-friendly web application to convert currencies in real-time us
 git clone https://github.com/ramlalkumawat/currency-converter.git
 cd currency-converter
 ````
-
-### 2. Open `index.html` in Browser
-
-You can simply open the `index.html` file in your browser:
-
-```bash
-npm start
-```
-
-### 3. (Optional) Add Your API Key
+### 2. (Optional) Add Your API Key
 
 If you're using a third-party currency API, replace the API key inside your JavaScript file:
 
